@@ -1,0 +1,158 @@
+ul {
+	list-style: none;
+}
+.header .navbar nav {
+}
+.list-item {
+	padding: 10px 30px;
+	float: left;
+	display: block;
+}
+.side-item {
+	margin: 10px 0;
+}
+
+.header {
+	display: inline-block;
+}
+h1 {
+	text-align: center;
+	color: lime;
+}
+h2{
+    color: #c9c9c1;
+}
+.venus {
+    width: 300px;
+    float: left;
+}
+
+.container {
+	margin: auto;
+	max-width: 1280px;
+	color: #99f0b0;
+	padding: 30px;
+	/* [disabled]width: 80%; */
+	background-color: black;
+
+
+}
+.left {
+	max-width: 900px;
+	float: left;
+	/* [disabled]background-color: black; */
+}
+.right {
+	max-width: 280px;
+	float: right;
+	/* [disabled]background-color: black; */
+}
+.body-content {
+    /* [disabled]background-color: black; */
+    margin-top: 20px;
+    height: 1535px;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	background-image: url(../images/background6.jpg);
+	background-repeat: repeat;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: normal;
+	font-weight: 300;
+}
+.body-content .right ul {
+
+}
+.pg-image {
+
+
+}
+.one {
+	width: 250px;
+	float: right;
+}
+.two {
+	float: left;
+	margin-right: 30px;
+}
+.three {
+	float: right;
+
+}
+.four {
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+
+}
+.footer {
+    display: block;
+    width: 300px;
+    float: left;
+}
+.before-footer {
+    height: 200px;
+}
+
+
+.five {
+    float: right;
+}
+.bullet {
+	display: inline-block;
+	width: 300px;
+	height: 150px;
+}
+.bullet-tours {
+}
+.lunar-1 {
+    width: 330px;
+    float: left;
+}
+.lunar-2 {
+    width: 330px;
+    float: right;
+}
+tbody tr th {
+    background-color: #665e65;
+}
+
+tr:nth-child(even) {
+	background-color: #b867a9;
+  }
+.mercury {
+    float: right;
+}
+.jupiter   {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+.feet-footer {
+    height: 300px;
+}
+.mars-1   {
+    width: 400px;
+    float: right;
+}
+.mars-2 {
+    width: 400px;
+    float: left;
+}
+input {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+form {
+    width: 300px;
+}
+.address {
+    margin-top: 50px;
+    line-height: 5px;
+}
+.address-img {
+    width: 200px;
+}
